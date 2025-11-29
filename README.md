@@ -1,4 +1,4 @@
-# Task 2 – Goldensmash
+# Task 2 – Fitness X App
 
 This repository contains my UI/UX submission for **Task 2** of **Future Interns**.
 
@@ -9,10 +9,8 @@ This repository contains my UI/UX submission for **Task 2** of **Future Interns*
 ---
 
 ## Description
-Task 2 involved designing a mobile app for **mental and physical wellness**.  
+Task 2 involved designing a mobile app called **Fitness X App**, focused on **mental and physical wellness**.  
 Key points:
 - Created a simple, intuitive, and empathetic interface.  
 - Designed flows for habit tracking, workout planning, and guided meditation.  
 - Focused on consistency in color, typography, and spacing for a smooth user experience.  
-
-
